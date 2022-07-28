@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="array full programming:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/array_full_programming_jar</output-path>
+    <root id="archive" name="array full programming.jar">
+      <element id="module-output" name="array full programming" />
+    </root>
+  </artifact>
+</component>
